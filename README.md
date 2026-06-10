@@ -91,7 +91,7 @@ The dashboard tracks several important HR metrics:
 ## 📊 Dashboard Preview
 
 <p align="center">
-  <img src="hr-dashboard.png" alt="HR Analytics Dashboard" width="1000"/>
+  <img src="HR DASHBOARD ANALYTICS PROJECT.pdf" alt="HR Analytics Dashboard" width="1000"/>
 </p>
 
 This interactive Power BI dashboard provides comprehensive HR insights, including employee attrition trends, workforce demographics, job satisfaction metrics, and department-level performance indicators to support strategic HR decision-making.
